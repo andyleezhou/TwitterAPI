@@ -1,0 +1,14 @@
+C:\Users\redwood-presenter\Desktop\curriculum_master\09 - aspnet entityframework\01 - aspnet core\labs\twitterapi\bin\Debug\netcoreapp2.2\twitterapi.deps.json
+C:\Users\redwood-presenter\Desktop\curriculum_master\09 - aspnet entityframework\01 - aspnet core\labs\twitterapi\bin\Debug\netcoreapp2.2\twitterapi.runtimeconfig.json
+C:\Users\redwood-presenter\Desktop\curriculum_master\09 - aspnet entityframework\01 - aspnet core\labs\twitterapi\bin\Debug\netcoreapp2.2\twitterapi.runtimeconfig.dev.json
+c:\Users\redwood-presenter\Desktop\curriculum_master\09 - aspnet entityframework\01 - aspnet core\labs\twitterapi\bin\Debug\netcoreapp2.2\twitterapi.dll
+c:\Users\redwood-presenter\Desktop\curriculum_master\09 - aspnet entityframework\01 - aspnet core\labs\twitterapi\bin\Debug\netcoreapp2.2\twitterapi.pdb
+c:\Users\redwood-presenter\Desktop\curriculum_master\09 - aspnet entityframework\01 - aspnet core\labs\twitterapi\obj\Debug\netcoreapp2.2\twitterapi.csprojAssemblyReference.cache
+c:\Users\redwood-presenter\Desktop\curriculum_master\09 - aspnet entityframework\01 - aspnet core\labs\twitterapi\obj\Debug\netcoreapp2.2\twitterapi.csproj.CoreCompileInputs.cache
+c:\Users\redwood-presenter\Desktop\curriculum_master\09 - aspnet entityframework\01 - aspnet core\labs\twitterapi\obj\Debug\netcoreapp2.2\twitterapi.RazorAssemblyInfo.cache
+c:\Users\redwood-presenter\Desktop\curriculum_master\09 - aspnet entityframework\01 - aspnet core\labs\twitterapi\obj\Debug\netcoreapp2.2\twitterapi.RazorAssemblyInfo.cs
+c:\Users\redwood-presenter\Desktop\curriculum_master\09 - aspnet entityframework\01 - aspnet core\labs\twitterapi\obj\Debug\netcoreapp2.2\twitterapi.AssemblyInfoInputs.cache
+c:\Users\redwood-presenter\Desktop\curriculum_master\09 - aspnet entityframework\01 - aspnet core\labs\twitterapi\obj\Debug\netcoreapp2.2\twitterapi.AssemblyInfo.cs
+c:\Users\redwood-presenter\Desktop\curriculum_master\09 - aspnet entityframework\01 - aspnet core\labs\twitterapi\obj\Debug\netcoreapp2.2\twitterapi.RazorTargetAssemblyInfo.cache
+c:\Users\redwood-presenter\Desktop\curriculum_master\09 - aspnet entityframework\01 - aspnet core\labs\twitterapi\obj\Debug\netcoreapp2.2\twitterapi.dll
+c:\Users\redwood-presenter\Desktop\curriculum_master\09 - aspnet entityframework\01 - aspnet core\labs\twitterapi\obj\Debug\netcoreapp2.2\twitterapi.pdb
